@@ -1,0 +1,5 @@
+db:
+  host: 'eu-cdbr-west-02.cleardb.net'
+  username: 'bc87e59921bf8b'
+  password: 'e4a06eeb'
+  database: 'heroku_f21c6b7f0696fe9'

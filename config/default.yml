@@ -1,0 +1,8 @@
+server:
+  port: 3000
+
+db:
+  type: 'mysql'
+
+jwt:
+  expiresIn: 360000000
